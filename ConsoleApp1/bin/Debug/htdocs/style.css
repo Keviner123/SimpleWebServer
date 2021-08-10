@@ -1,0 +1,12 @@
+body{
+	background-color:pink;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+h1{
+	font-size:100px
+}
+p{
+	font-size:80px;
+}
